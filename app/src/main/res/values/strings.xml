@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">NovoWest</string>
+    <string name="login_title">Вход</string>
+    <string name="signup_title">Регистрация</string>
+    <string name="login">Войти</string>
+    <string name="signup">Зарегистрироваться</string>
+    <string name="email">Электронный адрес</string>
+    <string name="password">Пароль</string>
+    <string name="name">Имя</string>
+    <string name="home">Главная</string>
+    <string name="dishes">Блюда</string>
+    <string name="sauces">Соусы</string>
+    <string name="snacks">Снэки</string>
+    <string name="more">Ещё</string>
+    <string name="beverages">Напитки</string>
+    <string name="cart">Корзина</string>
+    <string name="profile">Профиль</string>
+    <string name="is_wrong">Неправильная почта или пароль.</string>
+    <string name="forget_password">Забыли пароль?</string>
+    <string name="is_empty">Заполните все поля</string>
+    <string name="empty_cart">
+        Корзина пустая.\n
+        Вы можете добавить товар в корзину перейдя на главную страницу</string>
+</resources>
